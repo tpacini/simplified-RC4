@@ -1,4 +1,4 @@
-# rc4-decryption-HW
+# simplified-RC4
 
 Auhtors: tpacini, AndreaGiuliani-Git
 
