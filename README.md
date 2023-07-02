@@ -15,3 +15,6 @@ Modelsim 20.1.1
 
 Cyclone V device library
 
+## FILES
+
+The `generate_tv.py` file contains all the code used to generate test values to assess the correctness of our implementation.
