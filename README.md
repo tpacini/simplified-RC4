@@ -1,6 +1,6 @@
 # simplified-RC4
 
-Auhtors: tpacini, AndreaGiuliani-Git
+Authors: tpacini, AndreaGiuliani-Git
 
 Date: 2022-07-04
 
